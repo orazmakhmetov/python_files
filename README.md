@@ -1,2 +1,2 @@
-# python_small_projects
-My Personal Projects written in python for practice 
+# python_files
+My Personal Projects and done exercies which are written by Python for practice 
